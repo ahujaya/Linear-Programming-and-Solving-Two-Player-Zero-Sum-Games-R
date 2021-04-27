@@ -1,1 +1,0 @@
-# Linear-Programming-and-Two-Player-Game-Theory-using-R
